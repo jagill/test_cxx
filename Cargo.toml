@@ -1,0 +1,12 @@
+[package]
+name = "test_cxx"
+version = "0.1.0"
+authors = ["James Gill <jamesagill@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+cxx = "1.0"
+
+[build-dependencies]
+cxx-build = "1.0"
+# cc = "1.0"
